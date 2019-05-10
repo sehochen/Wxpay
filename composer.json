@@ -1,0 +1,26 @@
+{
+    "name": "Wxpay",
+    "type": "php-extension",
+    "description": "wechat pay",
+    "keywords": ["pay", "thinkphp", "think", "framework"],
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/chenbool/Wxpay/issues",
+        "forum": "https://github.com/chenbool",
+        "source": "https://github.com/chenbool/Wxpay"
+    },
+    "authors": [
+        {
+            "name": "bool",
+            "email": "30024167@qq.com"
+        }
+    ],
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+          "Debugger\\": "src/"
+        }
+    }
+}
